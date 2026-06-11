@@ -2,7 +2,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
 <img src="https://img.shields.io/badge/XML-UDP2.1-green">
 <br>
-This is a <i>User Defined Language (UDL)</i> file in XML that you can import into Notepad++ to get a colorful result when viewing or printing the text content of an email header.
+This is an XML-based User Defined Language (UDL) configuration file for Notepad++ that enhances the readability and analysis of email header data during forensic investigations.
 
 Usage
 ===================
