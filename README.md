@@ -1,6 +1,6 @@
 # Email Header UDL for Notepad++
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT) 
-<img src="https://img.shields.io/badge/XML-UDP2.1-green">
+<img src="https://img.shields.io/badge/XML-UDL2.1-green">
 <br>
 This is an XML-based User Defined Language (UDL) configuration file for Notepad++ that enhances the readability and analysis of email header data during forensic investigations.
 
